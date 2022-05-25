@@ -1,0 +1,32 @@
+site_name: DFCogs Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: deep purple
+  icon:
+    logo: material/cube-outline
+    repo: material/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - 
+
+extra:
+  social:
+    - icon: material/web
+      link: https://bedcrabdev.github.io/dfcogs-frontend
+    - icon: material/github
+      link: https://github.com/BedCrabDev/DFCogs-Docs
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/qMyZ5ARk89
+
+repo_url: https://github.com/BedCrabDev/DFCogs-Docs
+repo_name: BedCrabDev/DFCogs-Docs
+
+plugins:
+  - search
