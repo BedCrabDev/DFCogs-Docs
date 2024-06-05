@@ -14,19 +14,20 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.suggest
-    - 
+    - content.action.edit
 
 extra:
   social:
     - icon: material/web
-      link: https://bedcrabdev.github.io/dfcogs-frontend
+      link: https://dfcogs.bedcrab.dev/
     - icon: material/github
       link: https://github.com/BedCrabDev/DFCogs-Docs
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/qMyZ5ARk89
+      link: https://discord.gg/JhFTYnBEXp
 
 repo_url: https://github.com/BedCrabDev/DFCogs-Docs
 repo_name: BedCrabDev/DFCogs-Docs
+edit_uri: edit/main/docs/
 
 plugins:
   - search

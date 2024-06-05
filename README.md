@@ -1,4 +1,4 @@
 # DFCogs-Docs
 Documentation for DFCogs
 
-https://bedcrabdev.github.io/DFCogs-Docs/
+https://dfcogs-docs.bedcrab.dev/
